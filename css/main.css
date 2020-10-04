@@ -19,4 +19,9 @@
 .gallery__element:not(:last-child) {
   margin-right: 10px;
 }
+
+#counter {
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
 /*# sourceMappingURL=main.css.map */
